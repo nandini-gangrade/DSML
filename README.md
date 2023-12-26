@@ -3,16 +3,17 @@
 <table>
   <tr>
     <th>PDF</th>
-    <th>Post</th>
+    <th>LinkedIn Post</th>
   </tr>
   <tr>
-    <td>[Intro to Data and Data Science](https://github.com/nandini-gangrade/DSML/blob/main/1.%20Intro%20to%20Data%20and%20Data%20Science%20-%20Nandini%20Gangrade.pdf)</td>
-    <td>[Post1](https://example.com/Post1)</td>
+    <td><a href = "https://github.com/nandini-gangrade/DSML/blob/main/1.%20Intro%20to%20Data%20and%20Data%20Science%20-%20Nandini%20Gangrade.pdf">1. Intro to Data and Data Science</a></td>
+    <td><a href = "https://www.linkedin.com/posts/nandini-gangrade_1-intro-to-data-data-science-activity-7145423107829280771-LW1X?utm_source=share&utm_medium=member_desktop">🟢</td>
   </tr>
-<!--   <tr>
-    <td>[Document2.pdf](https://example.com/Document2.pdf)</td>
-    <td>[Post2](https://example.com/Post2)</td>
+  <tr>
+    <td>2. https://example.com/Document2.pdf)</td>
+    <td>🟩</td>
   </tr>
+<!--   
   <tr>
     <td>[Document3.pdf](https://example.com/Document3.pdf)</td>
     <td>[Post3](https://example.com/Post3)</td>
