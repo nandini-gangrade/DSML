@@ -11,7 +11,7 @@
   </tr>
 <!--   <tr>
     <td>2. https://example.com/Document2.pdf)</td>
-    <td>🟩</td>
+    <td> 🟩 </td>
   </tr> -->
 <!--   
   <tr>
